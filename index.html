@@ -16,7 +16,7 @@
             <!-- Contenedor principal en el que separa el formulario de la tabla -->
             <div class="row text-center gap-2 justify-content-center">
                 <!-- Establecemos el formulario y le asignamos distintos tamaños de columna en funcion del ancho de la pantalla-->
-                <div class="col-12 col-md-6 col-lg-5 col-xxl-3 border mx-4 p-3 border-primary-subtle rounded shadow" style="max-height: 550px;">
+                <div class="col-12 col-md-6 col-lg-3 col-xxl-3 border mx-4 p-3 border-primary-subtle rounded shadow" style="max-height: 600px; overflow-y: auto;">
                     <!-- Contenedor para el folumalario -->
                     <div class="d-flex flex-column mb-3">
                         <div>
@@ -42,15 +42,16 @@
                         <div class="mt-4">
                             <button type="button" class="btn btn-success m-1" id="guardarLibro">Guardar Libro</button>
                             <button type="button" class="btn btn-warning m-1" id="exportarXML">Exportar XML</button>
+                            <button type="button" class="btn btn-info m-1" id="exportarXML" onclick="limpiarFormulario()">Limpiar Formulario</button>
                             <div class="mb-3">
                                 <label for="formFile" class="form-label"></label>
                                 <input class="form-control form-control-sm" type="file" id="formFile">
-                                <button type="button" class="btn btn-danger m-4" id="importarXML">Importar XML</button>
+                                <button type="button" class="btn btn-danger mt-4" id="importarXML">Importar XML</button>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-5 col-xxl-8 border mx-4 p-3 border-primary-subtle rounded shadow" style="max-height: 550px; overflow-y: auto;">
+                <div class="col-12 col-md-6 col-lg-6 col-xxl-8 border mx-4 p-3 border-primary-subtle rounded shadow" style="max-height: 600px; overflow-y: auto;">
                     <h2>Inventario</h2>
                     <table class="table table-striped table-hover table-info mt-4 shadow">
                         <thead >
@@ -59,8 +60,10 @@
                             <th>Autor</th>
                             <th>Año</th>
                             <th>Disponible</th>
+                            <th>Gestión</th>
                         </thead>
                         <tbody class="table-group-divider" id="tablaLibros">
+
                         </tbody>
                     </table>
                 </div>
@@ -88,22 +91,75 @@
     </div>
     <script>
 
+        let libros = JSON.parse(localStorage.getItem("libros")) || [{"titulo":"El ingenioso hidalgo don Quijote de la Mancha","autor":"Miguel De Cervantes","anoPublicacion":1605,"disponible":"Si"},{"titulo":"Eragorn","autor":"Christopher Paolini","anoPublicacion":2002,"disponible":"Si"}];
+
+        window.onload = () => {
+            actualizarTabla();
+        };
+
+        //Funcion con un query selector y un event listener para cuando pulses el boton guardarlibro se añada a la tabla
         document.querySelector("#guardarLibro").addEventListener("click", function(){
             let titulo = document.querySelector("#titulo").value.trim();
             let autor = document.querySelector("#autor").value.trim();
             let anoPublicacion = document.querySelector("#anoPublicacion").value;
-            let disponible = document.querySelector('#disponible').checked;
+            let disponible = document.querySelector('#disponible').checked ? "Si" : "No";
 
             if(titulo === "" || autor === "" || anoPublicacion === ""){
                 alert("Por favor, tienes que rellenar todos los campos")
                 return;
             }
 
+            let libro = {
+                titulo: titulo,
+                autor: autor,
+                anoPublicacion: anoPublicacion,
+                disponible: disponible
+            }
 
-
+            libros.push(libro);
+            guardarLocalStorage();
+            actualizarTabla();
+            limpiarFormulario();
 
         })
 
+        //Función para agregar los datos del libro
+        function actualizarTabla(){
+
+            let tabla = document.getElementById("tablaLibros");
+            tabla.innerHTML = "";
+
+            libros.forEach((libro, index) => {
+
+                let fila = `
+                <tr >
+                    <td style="font-weight: bold;">${index+1}</td>
+                    <td>${libro.titulo}</td>
+                    <td>${libro.autor}</td>
+                    <td>${libro.anoPublicacion}</td>
+                    <td>${libro.disponible}</td>
+                    <td><button type="button" class="btn btn-danger" id="importarXML" onclick="eliminarLibro(${index})">Eliminar</button></td>
+                </tr>
+                `;
+                tabla.innerHTML += fila;
+            });
+        }
+
+        function limpiarFormulario(){
+            document.getElementById("titulo").value = "";
+            document.getElementById("autor").value = "";
+            document.getElementById("anoPublicacion").value = "";
+        }
+
+        function guardarLocalStorage(){
+            localStorage.setItem("libros", JSON.stringify(libros));
+        }
+
+        function eliminarLibro(index){
+            libros.splice(index,1);
+            guardarLocalStorage();
+            actualizarTabla();
+        }
 
     </script>
 </body>
