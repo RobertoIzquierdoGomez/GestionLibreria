@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> <libros><libro>
+                    <titulo>El ingenioso hidalgo don Quijote de la Mancha</titulo>
+                    <autor>Miguel De Cervantes</autor>
+                    <anoPublicacion>1605</anoPublicacion>
+                    <disponible>Si</disponible>
+                </libro><libro>
+                    <titulo>Eragorn</titulo>
+                    <autor>Christopher Paolini</autor>
+                    <anoPublicacion>2002</anoPublicacion>
+                    <disponible>Si</disponible>
+                </libro><libro>
+                    <titulo>Eldest</titulo>
+                    <autor>Christopher Paolini</autor>
+                    <anoPublicacion>2005</anoPublicacion>
+                    <disponible>Si</disponible>
+                </libro></libros>

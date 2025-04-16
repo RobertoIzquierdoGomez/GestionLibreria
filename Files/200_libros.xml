@@ -1,0 +1,1203 @@
+<?xml version="1.0" ?>
+<libros>
+  <libro>
+    <titulo>Historias de el imperio</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1974</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de las estrellas</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1919</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de el abismo</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1954</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de la luna</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>2018</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la luna</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1958</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La sombra de la ciudad perdida</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1942</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de el abismo</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1991</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de el imperio</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1916</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de Atlantis</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1900</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de el abismo</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1931</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de el abismo</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1998</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La sombra de Atlantis</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1916</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de Atlantis</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1956</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de el imperio</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>2015</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la luna</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1960</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en Atlantis</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1911</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de los dioses</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>2019</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de la cueva</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1969</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de el abismo</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1925</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de los dioses</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1947</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de la ciudad perdida</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1983</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de el imperio</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1953</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de los dioses</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1940</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de la selva</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1970</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de el abismo</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>2017</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de el imperio</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>2023</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de las estrellas</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>2004</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de el abismo</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1989</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de el imperio</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1903</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la luna</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1974</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de la luna</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1931</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de el imperio</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1957</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de los dioses</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1923</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de las estrellas</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>2014</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de los dioses</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1916</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la selva</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>2023</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de el abismo</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1907</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en el imperio</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1998</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de la selva</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1965</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en la luna</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1912</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de la selva</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>2010</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de Atlantis</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1984</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de el imperio</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1969</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La sombra de Atlantis</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>2019</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la selva</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>2017</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La sombra de el imperio</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1970</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la montaña</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>2019</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de los dioses</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1979</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la montaña</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1904</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de las estrellas</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>2016</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de Atlantis</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>2020</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en la selva</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1906</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de las estrellas</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1945</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de Atlantis</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>2000</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de el imperio</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1942</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en la montaña</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1938</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de los dioses</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1922</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de el imperio</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1928</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de el abismo</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1918</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de el imperio</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1998</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de la ciudad perdida</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1937</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de Atlantis</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1920</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la luna</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1907</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de la ciudad perdida</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1991</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de las estrellas</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1987</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la ciudad perdida</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1900</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de las estrellas</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1977</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de el imperio</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1972</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de la luna</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>2011</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de la montaña</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1915</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en el abismo</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1973</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de la selva</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>2008</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de la cueva</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1971</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en Atlantis</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1952</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de la cueva</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1979</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en la luna</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1920</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de la montaña</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1977</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la luna</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1912</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de las estrellas</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>2020</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de Atlantis</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1924</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de la montaña</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1948</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de Atlantis</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1989</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de Atlantis</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1973</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la ciudad perdida</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>2002</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la luna</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1908</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de el abismo</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1943</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de la selva</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1903</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de la montaña</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>2016</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de los dioses</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1937</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de las estrellas</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1918</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en la cueva</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1941</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la montaña</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1963</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de Atlantis</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1908</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de las estrellas</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1985</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de los dioses</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1972</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de los dioses</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1974</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de los dioses</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1918</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de la montaña</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1981</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La sombra de los dioses</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1980</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de Atlantis</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1912</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de los dioses</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1960</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de la ciudad perdida</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>2000</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la selva</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1961</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de la luna</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1984</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de Atlantis</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1934</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de Atlantis</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1932</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de la cueva</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1949</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de Atlantis</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>2012</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de la ciudad perdida</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1975</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de el imperio</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1950</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de la luna</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1988</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en la luna</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1955</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de las estrellas</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>2023</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la luna</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>2014</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de la luna</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1949</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de la selva</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1922</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la luna</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1922</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de Atlantis</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1997</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la montaña</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1960</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de la ciudad perdida</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1971</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de la luna</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1976</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de las estrellas</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>2021</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de la montaña</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1916</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de la selva</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1947</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la ciudad perdida</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1982</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de las estrellas</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1929</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de el imperio</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>2023</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en los dioses</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1963</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de la montaña</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1948</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la luna</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1960</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de los dioses</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1938</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La sombra de las estrellas</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1992</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de el imperio</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1938</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la cueva</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1994</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de el imperio</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1951</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la luna</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1999</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en la ciudad perdida</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1901</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de el imperio</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1906</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en el abismo</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1991</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de la cueva</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1908</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La sombra de la luna</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1932</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de el imperio</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1983</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de el imperio</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>2020</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La sombra de la cueva</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1990</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la montaña</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1994</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la cueva</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1973</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la ciudad perdida</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>2023</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de la selva</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1962</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la selva</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1956</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de el abismo</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1911</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de el abismo</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1967</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la selva</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1901</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de Atlantis</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>2004</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la montaña</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1953</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de las estrellas</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1957</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La sombra de los dioses</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1933</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de la ciudad perdida</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1907</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de la selva</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1903</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en la montaña</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1943</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de la ciudad perdida</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1902</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Aventuras en la ciudad perdida</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1949</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de la ciudad perdida</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1971</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de la luna</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1985</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la luna</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1907</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de el imperio</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1931</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la montaña</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1903</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de las estrellas</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1992</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de las estrellas</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>2016</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de el imperio</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1954</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de la ciudad perdida</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1926</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de el abismo</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1959</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de Atlantis</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1931</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de el imperio</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1938</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la montaña</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>2008</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de el imperio</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1957</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de Atlantis</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1977</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de la ciudad perdida</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>2012</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La caída de la cueva</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>2010</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de el abismo</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1902</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la luna</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1952</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de la cueva</titulo>
+    <autor>Ana Torres</autor>
+    <anoPublicacion>1997</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la selva</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1979</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de la ciudad perdida</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1969</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la cueva</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1903</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>La sombra de la luna</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1955</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>La sombra de Atlantis</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1981</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de la montaña</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1995</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El ascenso de la montaña</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>2010</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de las estrellas</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1928</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de el imperio</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>2019</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la selva</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1959</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de el imperio</titulo>
+    <autor>Lucía Méndez</autor>
+    <anoPublicacion>1991</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El misterio de el imperio</titulo>
+    <autor>Luis Fernández</autor>
+    <anoPublicacion>1906</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Leyendas de la ciudad perdida</titulo>
+    <autor>María López</autor>
+    <anoPublicacion>1984</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de el imperio</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1916</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>El legado de Atlantis</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1929</anoPublicacion>
+    <disponible>Si</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de Atlantis</titulo>
+    <autor>Sofía Gómez</autor>
+    <anoPublicacion>1970</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Historias de la cueva</titulo>
+    <autor>Juan Pérez</autor>
+    <anoPublicacion>1986</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Crónicas de la cueva</titulo>
+    <autor>Pedro Ramírez</autor>
+    <anoPublicacion>1909</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+  <libro>
+    <titulo>Secretos de las estrellas</titulo>
+    <autor>Carlos García</autor>
+    <anoPublicacion>1962</anoPublicacion>
+    <disponible>No</disponible>
+  </libro>
+</libros>

@@ -16,7 +16,7 @@
             <!-- Contenedor principal en el que separa el formulario de la tabla -->
             <div class="row text-center gap-2 justify-content-center">
                 <!-- Establecemos el formulario y le asignamos distintos tamaños de columna en funcion del ancho de la pantalla-->
-                <div class="col-12 col-md-6 col-lg-3 col-xxl-3 border mx-4 p-3 border-primary-subtle rounded shadow" style="max-height: 600px; overflow-y: auto;">
+                <div class="col-12 col-md-12 col-lg-3 col-xxl-3 border mx-4 p-3 border-primary-subtle rounded shadow overflow-y-auto" style="max-height: 600px;">
                     <!-- Contenedor para el folumalario -->
                     <div class="d-flex flex-column mb-3">
                         <div>
@@ -41,17 +41,17 @@
                         </div>
                         <div class="mt-4">
                             <button type="button" class="btn btn-success m-1" id="guardarLibro">Guardar Libro</button>
-                            <button type="button" class="btn btn-warning m-1" id="exportarXML">Exportar XML</button>
+                            <button type="button" class="btn btn-warning m-1" id="exportarXML" onclick="descargarXML()">Exportar XML</button>
                             <button type="button" class="btn btn-info m-1" id="exportarXML" onclick="limpiarFormulario()">Limpiar Formulario</button>
                             <div class="mb-3">
                                 <label for="formFile" class="form-label"></label>
-                                <input class="form-control form-control-sm" type="file" id="formFile">
-                                <button type="button" class="btn btn-danger mt-4" id="importarXML">Importar XML</button>
+                                <input class="form-control form-control-sm" type="file" id="fileImportarXML">
+                                <button type="button" class="btn btn-danger mt-4" id="importarXML" onclick="importarXML()">Importar XML</button>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-6 col-xxl-8 border mx-4 p-3 border-primary-subtle rounded shadow" style="max-height: 600px; overflow-y: auto;">
+                <div class="col-12 col-md-12 col-lg-6 col-xxl-8 border mx-4 p-3 border-primary-subtle rounded shadow overflow-y-auto" style="max-height: 600px;">
                     <h2>Inventario</h2>
                     <table class="table table-striped table-hover table-info mt-4 shadow">
                         <thead >
@@ -91,7 +91,7 @@
     </div>
     <script>
 
-        let libros = JSON.parse(localStorage.getItem("libros")) || [{"titulo":"El ingenioso hidalgo don Quijote de la Mancha","autor":"Miguel De Cervantes","anoPublicacion":1605,"disponible":"Si"},{"titulo":"Eragorn","autor":"Christopher Paolini","anoPublicacion":2002,"disponible":"Si"}];
+        let libros = JSON.parse(localStorage.getItem("libros")) || [];
 
         window.onload = () => {
             actualizarTabla();
@@ -160,6 +160,79 @@
             guardarLocalStorage();
             actualizarTabla();
         }
+
+
+        function descargarXML(){
+            // Se inicia una cadena XML con la declaración estándar y la etiqueta raíz <libros>
+            let xml = '<?xml version="1.0" encoding="UTF-8"?> ';
+            xml += '<libros>';
+
+            // Se recorre el array libros, y por cada objeto en él...
+            libros.forEach(p => {
+                // ...se agrega una etiqueta <libro> con los datos individuales como elementos hijo
+                xml += `<libro>
+                    <titulo>${p.titulo}</titulo>
+                    <autor>${p.autor}</autor>
+                    <anoPublicacion>${p.anoPublicacion}</anoPublicacion>
+                    <disponible>${p.disponible}</disponible>
+                </libro>` 
+            }); 
+
+            // Se cierra la etiqueta raíz </libros>
+            xml += '</libros>'; 
+
+            // Se crea un objeto Blob con el contenido XML y el tipo MIME correspondiente
+            const blob = new Blob([xml], { type: "application/xml" });
+
+            // Se crea un elemento <a> dinámicamente para descargar el archivo
+            const a = document.createElement("a");
+            // Se crea una URL temporal que apunta al Blob
+            a.href = URL.createObjectURL(blob);
+            // Se define el nombre del archivo que se descargará
+            a.download = "libros.xml";
+
+            // Se simula un clic en el enlace para iniciar la descarga
+            a.click();
+        }
+
+
+        function importarXML(){ //El event es un parametro de entrada que coge todas las caracteristicas del fileInput
+            const file = document.getElementById("fileImportarXML").files[0];
+
+            if(!file){
+                return;
+            }
+
+            const reader = new FileReader();
+            reader.readAsText(file);
+            //asincronia en terminos generales es cuando necesitas que el sistema espera para alinearse con el resto de cosas. Es decir, aqui estamos pidiendo que hasta que no lea todo el fichero no pase al resto de codigo.
+            reader.onload = function(e){
+
+                const xmlString = e.target.result; //Almacenamos el contenido
+                const parser = new DOMParser(); //Utilizamos la clase para poder transformar el string a un vector
+                //Se usa application por que vas a implementarle una logica (aplicacion). Si vas a usar para por ejemplo enseñarlo en consola usar txt/xml (vas a enseñar el texto)
+                const xmlDoc = parser.parseFromString(xmlString,"application/xml"); //Se indica el string y el tipo de archivo
+                const libros2 = xmlDoc.getElementsByTagName("libro"); //Se utiliza el DOMParser y se indica que la tarjeta libro diferencia cada parte del vector.
+
+                libros = [];
+
+                
+                for(let i = 0; i < libros2.length; i++){
+                    const p = libros2[i];
+                    let titulo = p.getElementsByTagName("titulo")[0]?.textContent || "";
+                    let autor = p.getElementsByTagName("autor")[0]?.textContent || "";
+                    let anoPublicacion = p.getElementsByTagName("anoPublicacion")[0]?.textContent || "";
+                    let disponible = p.getElementsByTagName("disponible")[0]?.textContent || "";
+
+                    libros.push({titulo, autor, anoPublicacion, disponible});
+
+                };
+
+                guardarLocalStorage();
+                actualizarTabla();
+                alert("Datos cargados");
+            }
+        };
 
     </script>
 </body>
