@@ -9,3 +9,5 @@ Ejercicio de práctica en el que hay que realizar una pequeña página para pode
 5. Importar archivo XML
 
 La práctica ha sido realizada utilizando HTML, BootStrap 5 y JavaScript.
+
+He incluido archivos de ejemplo para poder importar. Uno con 3 libros y otro con 200.
